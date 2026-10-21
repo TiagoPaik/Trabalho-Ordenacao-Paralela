@@ -1,0 +1,16 @@
+algoritmo,versao,threads,nucleos_disponiveis,tipo_entrada,tamanho,amostra,tempo_ms
+BubbleSort,serial,1,8,ALEATORIO,1000,1,1.5766
+BubbleSort,serial,1,8,ALEATORIO,1000,2,1.5731
+BubbleSort,serial,1,8,ALEATORIO,1000,3,1.5287
+BubbleSort,serial,1,8,ALEATORIO,1000,4,1.8314
+BubbleSort,serial,1,8,ALEATORIO,1000,5,1.6214
+BubbleSort,serial,1,8,ALEATORIO,5000,1,49.4164
+BubbleSort,serial,1,8,ALEATORIO,5000,2,44.9703
+BubbleSort,serial,1,8,ALEATORIO,5000,3,80.5701
+BubbleSort,serial,1,8,ALEATORIO,5000,4,64.8153
+BubbleSort,serial,1,8,ALEATORIO,5000,5,47.9748
+BubbleSort,serial,1,8,ALEATORIO,10000,1,252.6276
+BubbleSort,serial,1,8,ALEATORIO,10000,2,248.9742
+BubbleSort,serial,1,8,ALEATORIO,10000,3,238.2941
+BubbleSort,serial,1,8,ALEATORIO,10000,4,248.1730
+BubbleSort,serial,1,8,ALEATORIO,10000,5,231.5214
